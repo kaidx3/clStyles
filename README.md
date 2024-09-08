@@ -25,6 +25,11 @@ import { styledText } from 'clStyles';
 console.log(styledText("Hello World", "\x1b[32m", true));
 ```
 
+## Colors
+
+You can enter any ANSI color code you want. If you want a collection of them for convenience, [install clcolors](https://github.com/kaidx3/clcolors).
+
+
 ## Parameters
   - **text:** The string you want to format.
   - **color:** the ANSI color code for your text.
