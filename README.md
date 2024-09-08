@@ -1,12 +1,12 @@
 # clStyles
 A simple module for styling command line outputs.
 
-** Features
+## Features
 
-- Color Formatting: Apply colors to command line outputs.
+- ** Color Formatting: ** Apply colors to command line outputs.
 - Bold Styling: Make command line outputs bold.
 
-** Install
+## Install
 
 To install, run:
 
@@ -14,7 +14,7 @@ To install, run:
 npm install clstyles
 ```
 
-** Usage
+## Usage
 
 Import the styledText function and use it to style your console output:
 
