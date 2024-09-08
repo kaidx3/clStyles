@@ -25,7 +25,7 @@ import { styledText } from 'clStyles';
 console.log(styledText("Hello World", "\x1b[32m", true));
 ```
 
-** Parameters
+## Parameters
   - **text:** The string you want to format.
   - **color:** the ANSI color code for your text.
   - **isBold (optional):** A boolean to make the text bold.
