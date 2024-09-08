@@ -3,7 +3,7 @@ A simple module for styling command line outputs.
 
 ## Features
 
-- ** Color Formatting: ** Apply colors to command line outputs.
+- **Color Formatting:** Apply colors to command line outputs.
 - Bold Styling: Make command line outputs bold.
 
 ## Install
