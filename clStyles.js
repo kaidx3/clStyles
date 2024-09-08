@@ -11,6 +11,6 @@
  * // Returns bold green text: "Hello World".
  */
 export const styledText = (text, color, isBold = false) => {
-    const boldCode = isBold ? colors.bold : "";
-    return `${boldCode}${color}${text}${colors.reset}`;
+    const boldCode = isBold ? "\x1b[1m" : "";
+    return `${boldCode}${color}${text}\x1b[0m`;
 };
