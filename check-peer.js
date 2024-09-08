@@ -11,7 +11,6 @@ try {
     console.log("clcolors is already installed.");
     rl.close();
 } catch (e) {
-    // If clcolors is not installed, prompt the user to install it
     rl.question("clcolors is not installed. Would you like to install it? (y/n) ", (answer) => {
         if (answer.toLowerCase() === "y" || answer.toLowerCase() === "yes") {
             try {
