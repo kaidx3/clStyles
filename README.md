@@ -4,7 +4,7 @@ A simple module for styling command line outputs.
 ## Features
 
 - **Color Formatting:** Apply colors to command line outputs.
-- Bold Styling: Make command line outputs bold.
+- **Bold Styling:** Make command line outputs bold.
 
 ## Install
 
@@ -26,6 +26,6 @@ console.log(styledText("Hello World", "\x1b[32m", true));
 ```
 
 ** Parameters
-  - text: The string you want to format.
-  - color: the ANSI color code for your text.
-  - isBold (optional): A boolean to make the text bold.
+  - **text:** The string you want to format.
+  - **color:** the ANSI color code for your text.
+  - **isBold (optional):** A boolean to make the text bold.
