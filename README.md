@@ -1,4 +1,4 @@
-# clStyles
+# clstyles
 A simple module for styling command line outputs.
 
 ## Features
