@@ -1,6 +1,6 @@
 {
   "name": "clstyles",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple module for styling command line outputs.",
   "main": "clStyles.js",
   "scripts": {
